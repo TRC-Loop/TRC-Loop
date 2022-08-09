@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, this is TRC-Loop! 
 
-<!--
-**TRC-Loop/TRC-Loop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What am i doing💻?
 
-Here are some ideas to get you started:
+### Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m coding:
+
+**Python**
+```python
+print("Hello World!")
+```
+**Visual Basic** (.net)
+```vbnet
+Module Module1
+    Sub Main()
+        System.Console.WriteLine("Hello World.")
+        System.Console.ReadLine()
+        End
+    End Sub
+End Module
+```
+**SQL**
+```sql
+CREATE TABLE helloworld (phrase TEXT);
+```
+-----------------------
+## My Social media:
+
+[Youtube](https://www.youtube.com/channel/UCdOuCGsMij3JGOPQ2z6aCyA/featured)
+[GitHub](https://github.com/TRC-Loop)
+[TikTok](https://www.tiktok.com/@trc_loop)
+
+----
+
+# See you!
