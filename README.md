@@ -24,6 +24,8 @@ End Module
 ```sql
 CREATE TABLE helloworld (phrase TEXT);
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRC-Loop)](https://github.com/anuraghazra/github-readme-stats)
+
 -----------------------
 ## My Social media:
 
