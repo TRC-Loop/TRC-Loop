@@ -35,5 +35,9 @@ CREATE TABLE helloworld (phrase TEXT);
 [TikTok](https://www.tiktok.com/@trc_loop)
 
 ----
+# Projects i am involved:
+## Stellar Code
+Open-Source Company
+See: [Github](https://github.com/stellar-coding)
 
 # See you!
