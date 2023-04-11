@@ -6,24 +6,27 @@
 
 I´m coding:
 
-**Python**
-```python
-print("Hello World!")
-```
-**Visual Basic** (.net)
-```vbnet
-Module Module1
-    Sub Main()
-        System.Console.WriteLine("Hello World.")
-        System.Console.ReadLine()
-        End
-    End Sub
-End Module
-```
-**SQL**
-```sql
-CREATE TABLE helloworld (phrase TEXT);
-```
+ - **Python**
+ - **Visual Basic** (.Net)
+ - **SQL**
+ - **C#** (.Net)
+ - **HTML & CSS**
+ - **Markdown**
+
+What Technoligys i use:
+
+ - **.Net**
+ - **WinForms**
+ - **Guna.UI**
+
+My Dev Programs:
+
+ - **Visual Studio Code**
+ - **Visual Studio**
+ - **GitHub CoPilot**
+ - **Paint.Net**
+ - **Aseprite**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRC-Loop&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRC-Loop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
