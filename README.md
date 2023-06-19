@@ -13,7 +13,7 @@ I´m coding:
  - **HTML & CSS**
  - **Markdown**
 
-What Technoligys i use:
+What Technologys i use:
 
  - **.Net**
  - **WinForms**
@@ -36,11 +36,12 @@ My Dev Programs:
 [Youtube](https://www.youtube.com/channel/UCdOuCGsMij3JGOPQ2z6aCyA/featured)
 [GitHub](https://github.com/TRC-Loop)
 [TikTok](https://www.tiktok.com/@trc_loop)
-
+[Discord](https://dsc.gg/trcloopnummity)
 ----
 # Projects i am involved:
 ## Stellar Code
 Open-Source Company
 See: [Github](https://github.com/stellar-coding)
-**You want me todo something? Reache me under my [E-Mail](aro.yt.mail@gmail.com)
+## NWF Antivirus
+**You want me todo something? Reach me under my [E-Mail](aro.yt.mail@gmail.com)**
 # See you!
