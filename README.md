@@ -1,47 +1,25 @@
-# Hello, this is TRC-Loop! 
+# TRC-Loop
+Hi! I am TRC-Loop, a Developer and Designer. 
 
-## What am i doing💻?
 
-### Programming
+## Coding-Languages
+- Python - I use python for most of my projects, I like the simplicity of it.
+- VB - Allthough I don't use it as much as I used to, it is a simple alternative to C#.net
+- C# - Fast, Compiled, dotnet.
+- Java - I learned to make plugins using Java, for example [EasyHomes](https://modrinth.com/plugin/easyhomes).
 
-I´m coding:
+## Languages
+- German - My primary language
+- English - My second-best language, I use it for all of my projects so people all around the world can understand me.
+- French - Allthough I am not the best in it, I can still speak in it!
 
- - **Python**
- - **Visual Basic** (.Net)
- - **SQL**
- - **C#** (.Net)
- - **HTML & CSS**
- - **Markdown**
+## Projects
+### Current:
+- SQLib - A simple SQLite3 Wrapper: [Github](https://github.com/TRC-Loop/SQLib), [PyPi](https://pypi.org/project/SQLibEngine)
 
-What Technologys i use:
+### Projects i am involved:
+- Stellar-Code
 
- - **.Net**
- - **WinForms**
- - **Guna.UI**
-
-My Dev Programs:
-
- - **Visual Studio Code**
- - **Visual Studio**
- - **GitHub CoPilot**
- - **Paint.Net**
- - **Aseprite**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRC-Loop&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRC-Loop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
------------------------
-## My Social media:
-
-[Youtube](https://www.youtube.com/channel/UCdOuCGsMij3JGOPQ2z6aCyA/featured)
-[GitHub](https://github.com/TRC-Loop)
-[TikTok](https://www.tiktok.com/@trc_loop)
-[Discord](https://dsc.gg/trcloopnummity)
-----
-# Projects i am involved:
-## Stellar Code
-Open-Source Company
-See: [Github](https://github.com/stellar-coding)
-## NWF Antivirus
-**You want me todo something? Reach me under my [E-Mail](aro.yt.mail@gmail.com)**
-# See you!
+## Reach me here:
+[Email](ak@stellar-code.com)
+Discord: @trcloop or [TRC Loopnummity](https://dsc.gg/trcloopnummity)
