@@ -2,11 +2,8 @@
 Hi! I am TRC-Loop, a Developer and Designer. 
 
 
-## Coding-Languages
-- Python - I use python for most of my projects, I like the simplicity of it.
-- VB - Allthough I don't use it as much as I used to, it is a simple alternative to C#.net
-- C# - Fast, Compiled, dotnet.
-- Java - I learned to make plugins using Java, for example [EasyHomes](https://modrinth.com/plugin/easyhomes).
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,cs,css,codepen,dotnet,flask,git,github,githubactions,html,idea,java,js,linux,lua,md,mysql,php,powershell,pycharm,py,qt,raspberrypi,replit,robloxstudio,sqlite,unity,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ## Languages
 - German - My primary language
