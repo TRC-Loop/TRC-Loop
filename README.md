@@ -3,7 +3,7 @@ Hi! I am TRC-Loop, a Developer and Designer.
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,cs,css,codepen,dotnet,flask,git,github,githubactions,html,idea,java,js,linux,lua,md,mysql,php,powershell,pycharm,py,qt,raspberrypi,replit,robloxstudio,sqlite,unity,visualstudio,vscode,windows,vb)](https://skillicons.dev)
+![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,flask,qt,cs,css,js,html,py,java,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
 
 ## Languages
 - German - My primary language
