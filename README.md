@@ -13,6 +13,7 @@ Hi! I am TRC-Loop, a Developer and Designer.
 ## Projects
 ### Current:
 - SQLib - A simple SQLite3 Wrapper: [Github](https://github.com/TRC-Loop/SQLib), [PyPi](https://pypi.org/project/SQLibEngine)
+- Skill Icons Generator/GUI - A Visual Designer to create Skill Icons: [SkillIcons Designer](https://github.com/TRC-Loop/SkilliconsGUI) Original Project: [Skillicons Original Project](https://skillicons.dev/)
 
 ### Projects i am involved:
 - Stellar-Code
