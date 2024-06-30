@@ -19,5 +19,5 @@ Hi! I am TRC-Loop, a Developer and Designer.
 - Stellar-Code
 
 ## 📇 Reach me here:
-[Email](ak@stellar-code.com)
+Email: ak@stellar-code.com
 Discord: @trcloop or [TRC Loopnummity](https://dsc.gg/trcloopnummity)
