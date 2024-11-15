@@ -3,7 +3,7 @@ Hi! I am TRC-Loop, a Developer and Designer.
 ![Metrics](github-metrics.svg)
 
 ## 😎 Skills
-![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,flask,qt,cs,css,js,html,py,java,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
+![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,flask,qt,cs,css,js,html,py,java,go,kotlin,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
 
 
 
