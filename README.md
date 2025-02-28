@@ -33,7 +33,7 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 
 ## 📇 Reach me here:
 📧 Email: ak@stellar-code.com or info@gamorize.com  
-💬 Discord: @trcloop or [TRC Loopnummity](https://dsc.gg/trcloopnummity)
+💬 Discord: @trcloop
 
 ## 📊 General Info
 ![📊 Metrics](github-metrics.svg)
