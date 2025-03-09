@@ -13,7 +13,7 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 | 🌐 JavaScript | 60%           | ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)                               |
 | 🖥️ C/C++      | 50%           | ![C++](https://skillicons.dev/icons?i=cpp,c&theme=dark)                                    |
 | 🛡️ VB (.Net)  | 90%           | ![VB.Net](https://skillicons.dev/icons?i=dotnet,vb&theme=dark)                             |
-| 🐘 PHP        | 50%           | ![PHP](https://skillicons.dev/icons?i=php&theme=dark)                                      |
+| 🐘 PHP        | 85%           | ![PHP](https://skillicons.dev/icons?i=php&theme=dark)                                      |
 | ☕ Java/Kotlin| 60%           | ![Java](https://skillicons.dev/icons?i=java,kotlin&theme=dark)                             |
 
 ## 🌍 Languages 🗣️
