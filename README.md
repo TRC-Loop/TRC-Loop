@@ -1,6 +1,11 @@
 Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer. 
 
-# 🚀 Founder of [Gamorize](https://gamorize.com)
+# 🚀 Founder of [Gamorize](https://gamorize.com) (GMRZE)
+
+<p align="center">
+  <img src="https://github.com/TRC-Loop/TRC-Loop/blob/main/jukJFUu-2-2.webp" alt="Image" width="400" />
+</p>
+
 
 ## 😎 Skills 🛠️
 ![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,flask,qt,cs,css,js,html,php,py,java,go,kotlin,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
