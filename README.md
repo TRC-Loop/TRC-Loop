@@ -8,7 +8,7 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 
 
 ## 😎 Skills 🛠️
-![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,flask,qt,cs,css,js,html,php,py,java,go,kotlin,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
+![Skills Icons](https://skillicons.dev/icons?i=apple,windows,bash,dotnet,bootstrap,sqlite,kotlin,flask,qt,cs,css,js,html,php,py,java,go,kotlin,lua,arduino,raspberrypi,codepen,git,github,githubactions,vscode,visualstudio,replit,idea,robloxstudio,md,svg&perline=7&theme=dark)
 
 # 💻 Programming Languages
 | 📝 Language   | 📊 Experience | 🖥️ Icon                                                                                      |
