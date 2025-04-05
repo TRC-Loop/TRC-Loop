@@ -15,6 +15,7 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 |---------------|---------------|---------------------------------------------------------------------------------------------|
 | 🐍 Python     | 100%          | ![Python](https://skillicons.dev/icons?i=py&theme=dark)                                     |
 | ⚙️ C# (.Net)  | 70%           | ![C#](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)                                 |
+| 💙 Go | 90% | ![Go](https://skillicons.dev/icons?i=go&theme=dark)
 | 🌐 JavaScript | 60%           | ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)                               |
 | 🖥️ C/C++      | 50%           | ![C++](https://skillicons.dev/icons?i=cpp,c&theme=dark)                                    |
 | 🛡️ VB (.Net)  | 90%           | ![VB.Net](https://skillicons.dev/icons?i=dotnet,vb&theme=dark)                             |
