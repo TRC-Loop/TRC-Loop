@@ -22,6 +22,9 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 | 🐘 PHP        | 85%           | ![PHP](https://skillicons.dev/icons?i=php&theme=dark)                                      |
 | ☕ Java/Kotlin| 60%           | ![Java](https://skillicons.dev/icons?i=java,kotlin&theme=dark)                             |
 
+## Top used Languages
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRC-Loop&layout=compact&theme=dark)
+
 ## 🌍 Languages 🗣️
 - 🇩🇪 German - My primary language
 - 🇺🇸 English - 2. Language (Very Good)
@@ -41,6 +44,3 @@ Hi! 👋 I am TRC-Loop, a 👨🏼‍💻 Developer and 🎨 Designer.
 ## 📇 Reach me here:
 📧 Email: ak@stellar-code.com or info@gamorize.com  
 💬 Discord: @trcloop
-
-## 📊 General Info
-![📊 Metrics](github-metrics.svg)
