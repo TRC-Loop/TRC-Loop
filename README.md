@@ -48,3 +48,6 @@
   <a href="https://instagram.com/arnierderechte"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"></a>
   <a href="https://www.youtube.com/@trcloop"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"></a>
 </p>
+<p align="center">
+  <img src="https://images.weserv.nl/?url=server1.gmrze.net:8084/nvim-bar.php"/>
+</p>
