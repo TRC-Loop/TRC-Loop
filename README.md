@@ -4,7 +4,7 @@
 ## ⚡ Configs
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=neovim-config&theme=radical)](https://github.com/TRC-Loop/neovim-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=yazi-config&theme=radical)](https://github.com/TRC-Loop/yazi-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=yazi-config&theme=radical)](https://github.com/TRC-Loop/Theming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=Theming&theme=radical)](https://github.com/TRC-Loop/Theming)
 
 🚀 Founder of [Gamorize](https://gamorize.com) (GMRZE)
 
