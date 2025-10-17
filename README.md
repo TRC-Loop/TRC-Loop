@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=yazi-config&theme=radical)](https://github.com/TRC-Loop/yazi-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=Theming&theme=radical)](https://github.com/TRC-Loop/Theming)
 
-🚀 Founder of [Gamorize](https://gamorize.com) (GMRZE)
+🚀 Founder of [Gamorize](https://go.gmrze.com) (GMRZE)
 
 <p align="center">
   <img src="https://github.com/TRC-Loop/TRC-Loop/blob/main/jukJFUu-2-2.webp" alt="Image" width="400" />
