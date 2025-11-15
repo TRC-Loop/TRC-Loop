@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=yazi-config&theme=radical)](https://github.com/TRC-Loop/yazi-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRC-Loop&repo=Theming&theme=radical)](https://github.com/TRC-Loop/Theming)
 
-🚀 Founder of [Gamorize](https://go.gmrze.com) (GMRZE)
+Founder of [Gamorize](https://go.gmrze.com) (GMRZE)
 
 <p align="center">
   <img src="https://github.com/TRC-Loop/TRC-Loop/blob/main/jukJFUu-2-2.webp" alt="Image" width="400" />
@@ -14,10 +14,8 @@
 
 
 ## 💡 What I Do
-- 🚀 Build scalable full-stack apps with modern frameworks  
-- 🎨 Craft clean UI/UX with a designer’s eye  
-- 🛠️ Automate workflows & optimize performance  
-- 🌍 Collaborate across cultures and languages  
+
+Code sutff on github apparently
 
 
 ## 🛠️ Skills
