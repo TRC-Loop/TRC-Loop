@@ -10,6 +10,8 @@
       <a href="https://blog.arne.sh">https://blog.arne.sh</a></p>
       <p><strong>Email</strong><br>
       <a href="mailto:me@arne.sh">me@arne.sh</a></p>
+      <p><strong>Discord</strong><br>
+      @trcloop</p>
     </td>
   </tr>
   <tr>
