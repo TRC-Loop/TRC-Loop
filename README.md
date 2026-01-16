@@ -16,10 +16,10 @@
     <td colspan="2">
       <strong>Languages</strong>
       <ul>
-        <li>🇩🇪 German (Native `C2`)</li>
-        <li>🇬🇧 English (Really Good `B2`)</li>
-        <li>🇳🇱 Dutch (Kinda Good / Duolingo Score: `9`)</li>
-        <li>🇫🇷 French (Intermediate `A2`)</li>
+        <li>🇩🇪 German (Native <code>C2</code>)</li>
+        <li>🇬🇧 English (Really Good <code>B2</code>)</li>
+        <li>🇳🇱 Dutch (Kinda Good / Duolingo Score: <code>9</code>)</li>
+        <li>🇫🇷 French (Intermediate <code>A2</code>)</li>
       </ul>
       <strong>Hobbies</strong>
       <ul>
