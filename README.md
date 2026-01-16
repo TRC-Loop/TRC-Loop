@@ -30,5 +30,6 @@
         <li>🎧 DJ</li>
       </ul>
     </td>
+    <!-- My Dog's name is Cooper! -->
   </tr>
 </table>
