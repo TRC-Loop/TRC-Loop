@@ -20,7 +20,7 @@
       <ul>
         <li>🇩🇪 German (Native <code>C2</code>)</li>
         <li>🇬🇧 English (Really Good <code>B2</code>)</li>
-        <li>🇳🇱 Dutch (Kinda Good / Duolingo Score: <code>9</code>)</li>
+        <li>🇳🇱 Dutch (Kinda Good / Duolingo Score: <code>20</code>)</li>
         <li>🇫🇷 French (Intermediate <code>A2</code>)</li>
       </ul>
       <strong>Hobbies</strong>
