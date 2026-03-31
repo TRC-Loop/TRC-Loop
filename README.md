@@ -19,7 +19,7 @@
       <strong>Languages</strong>
       <ul>
         <li>🇩🇪 German (Native <code>C2</code>)</li>
-        <li>🇬🇧 English (Really Good <code>B2</code>)</li>
+        <li>🇬🇧 English (Really Good <code>C1</code>)</li>
         <li>🇳🇱 Dutch (Kinda Good / Duolingo Score: <code>20</code>)</li>
         <li>🇫🇷 French (Intermediate <code>A2</code>)</li>
       </ul>
