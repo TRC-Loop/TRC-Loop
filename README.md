@@ -6,8 +6,8 @@
     <td style="width: 100%; vertical-align: top; padding-left: 40px;">
       <p><strong>Website</strong><br>
       <a href="https://arne.sh">https://arne.sh</a></p>
-      <p><strong>Blog</strong><br>
-      <a href="https://blog.arne.sh">https://blog.arne.sh</a></p>
+      <p><strong>Status</strong><br>
+      <a href="https://status.arne.sh">https://status.arne.sh</a></p>
       <p><strong>Email</strong><br>
       <a href="mailto:me@arne.sh">me@arne.sh</a></p>
       <p><strong>Discord</strong><br>
